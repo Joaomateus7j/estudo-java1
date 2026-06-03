@@ -14,6 +14,7 @@ public class Aula02TiposPrimitivos {
         char caractere = 'M';
         System.out.println("A idade da pessoa e "+idade+" anos");
         System.out.println(verdadeiro);
+        System.out.println("char "+ caractere);
 
     }
 
