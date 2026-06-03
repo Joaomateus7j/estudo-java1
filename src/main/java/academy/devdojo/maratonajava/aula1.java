@@ -1,4 +1,4 @@
-package org.example;
+package academy.devdojo.maratonajava;
 
 /**
  * Isso e um comentario
@@ -7,7 +7,7 @@ package org.example;
 /**
  * @param anotação e teste de javadoc
  */
-public class aula1.java {
+public class aula1 {
     public static void main(String[] args){
         System.out.println("Olá, Mundo");
 
