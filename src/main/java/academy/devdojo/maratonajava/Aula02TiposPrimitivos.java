@@ -7,12 +7,13 @@ public class Aula02TiposPrimitivos {
         long numeroGrande = 100000;
         double salarioDouble = 2000;
         float salarioFloat = 2500;
-        byte idadeByte = 10;
+        byte idadeByte = 121;
         short idadeShort = 10;
         boolean verdadeiro = true;
         boolean falso = false;
         char caractere = 'M';
         System.out.println("A idade da pessoa e "+idade+" anos");
+        System.out.println(verdadeiro);
 
     }
 
