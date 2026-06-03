@@ -7,7 +7,7 @@ package org.example;
 /**
  * @param anotação e teste de javadoc
  */
-public class Main {
+public class aula1.java {
     public static void main(String[] args){
         System.out.println("Olá, Mundo");
 
@@ -20,4 +20,3 @@ public class Main {
    multiplas linhas,
    estou testando ela agora
  */
-
