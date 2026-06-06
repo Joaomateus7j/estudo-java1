@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class AplicandoAula3Desafio2 {
+public class Aula03TiposPrimitivosExercicios1 {
     public static void main(String[] args) {
 
         String nome = "João mateus ";

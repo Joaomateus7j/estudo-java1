@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class AplicandoAula3{
+public class Aula03TiposPrimitivosExercicios2 {
     public static void main(String[] args) {
 
         String nomeproduto = "Mouse Gpro ";
