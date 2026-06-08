@@ -2,9 +2,10 @@ package academy.devdojo.maratonajava;
 
 public class Aula04OperadoresExercicio {
     public static void main(String[] args) {
+
+        // --- TESTE 1: CÁLCULO DA IDADE DO CLIENTE ---
         int idadeCliente = 17;
         int idadeMinimaParaDirigir = 18;
-
 
         boolean isClienteMaiorDeIdade = idadeCliente >= idadeMinimaParaDirigir;
         boolean isIdadeDiferente = idadeCliente != idadeMinimaParaDirigir;
@@ -13,22 +14,24 @@ public class Aula04OperadoresExercicio {
         System.out.println("isIdadeDiferente: " + isIdadeDiferente);
 
 
-
-        // && =(AND) || (or) !
+        // --- TESTE 2: CÁLCULO DA LEI E SALÁRIO ---
         int idade = 35;
         float salario = 3500f;
-        boolean isDentroDaLeiMaioroQueTrinta = idade > 35 && salario > 4612;
-        boolean isDentroDaLeiMenoroQueTrinta = idade < 30 && salario >= 3381;
-        System.out.println("isDentroDaLeiMaioroQueTrinta "+ isDentroDaLeiMaioroQueTrinta);
-        System.out.println("isDentroDaLeiMenoroQueTrinta "+ isDentroDaLeiMenoroQueTrinta);
+
+        boolean isDentroDaLeiMaiorQueTrinta = idade > 35 && salario > 4612;
+        boolean isDentroDaLeiMenorQueTrinta = idade < 30 && salario >= 3381;
+
+        System.out.println("isDentroDaLeiMaiorQueTrinta: " + isDentroDaLeiMaiorQueTrinta);
+        System.out.println("isDentroDaLeiMenorQueTrinta: " + isDentroDaLeiMenorQueTrinta);
 
 
+        // --- TESTE 3: COMPRA DAS FRUTAS ---
         boolean compreiMorangoHoje = true;
-        boolean compreiAbaxaxihoje = true;
+        boolean compreiAbacaxiHoje = true;
 
-        boolean isComprafeitaDoDia = compreiMorangoHoje && compreiAbaxaxihoje;
+        boolean isCompraFeitaDoDia = compreiMorangoHoje && compreiAbacaxiHoje;
 
-        System.out.println("Eu comprei oque era necessario hoje? " + isComprafeitaDoDia);
+        System.out.println("Eu comprei o que era necessario hoje? " + isCompraFeitaDoDia);
 
-    }
-}
+    } // <- Essa chave fecha o main (estava faltando ou no lugar errado)
+} // <- Essa chave fecha a classe
