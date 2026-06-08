@@ -14,5 +14,15 @@ public class Aula04OperadoresExercicio {
 
 
 
+        // && =(AND) || (or) !
+        int idade = 35;
+        float salario = 3500f;
+        boolean isDentroDaLeiMaioroQueTrinta = idade > 35 && salario > 4612;
+        boolean isDentroDaLeiMenoroQueTrinta = idade < 30 && salario >= 3381;
+        System.out.println("isDentroDaLeiMaioroQueTrinta "+ isDentroDaLeiMaioroQueTrinta);
+        System.out.println("isDentroDaLeiMenoroQueTrinta "+ isDentroDaLeiMenoroQueTrinta);
+
+
+
     }
 }
