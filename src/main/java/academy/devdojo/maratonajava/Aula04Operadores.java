@@ -9,5 +9,23 @@ public class Aula04Operadores {
         System.out.println("O valor exibido e de " + resultado);
 
 
+        // %
+        int resto = 21 % 2;
+        System.out.println(resto);
+
+        //Operadores logicos
+        // <><= >= == !=
+        boolean isDezMaiorQueVinte = 10 > 20;
+        boolean isDezMenorQueVinte = 10 < 20;
+        boolean isDezIgualVinte = 10 == 20;
+        boolean isDezIgualDez = 10 == 10.0;
+        boolean isDezDiferenteDez = 10 != 10.0;
+
+        System.out.println("isDezMaiorQueVinte " + isDezMaiorQueVinte);
+        System.out.println("isDezMenorQueVinte " + isDezMenorQueVinte);
+        System.out.println("isDezIgualVinte " + isDezIgualVinte);
+        System.out.println("isDezIgualDez " + isDezIgualDez);
+        System.out.println("isDezDiferenteDez " + isDezDiferenteDez);
+
     }
 }
