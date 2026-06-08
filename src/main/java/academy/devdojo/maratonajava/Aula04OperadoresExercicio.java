@@ -23,6 +23,12 @@ public class Aula04OperadoresExercicio {
         System.out.println("isDentroDaLeiMenoroQueTrinta "+ isDentroDaLeiMenoroQueTrinta);
 
 
+        boolean compreiMorangoHoje = true;
+        boolean compreiAbaxaxihoje = true;
+
+        boolean isComprafeitaDoDia = compreiMorangoHoje && compreiAbaxaxihoje;
+
+        System.out.println("Eu comprei oque era necessario hoje? " + isComprafeitaDoDia);
 
     }
 }
