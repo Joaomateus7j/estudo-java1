@@ -11,5 +11,12 @@ public class Aula04OperadoresExercicio6 {
 
         System.out.println(pontos);
 
+        // 🧮 Tema 3: Operadores de Atribuição (Exercício 2)
+
+        int voltas = 0;
+        voltas ++; // Primeira volta
+        voltas++; // Segunda volta
+        System.out.println(voltas);
+
     }
 }
