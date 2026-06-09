@@ -7,7 +7,7 @@ public class Aula04OperadoresExercicio3 {
         double salarioCliente = 3500;
         double limiteCartao = 1000;
 
-        boolean isAumentoAprovado = isContaVerificada && salarioCliente >= 3000;
+        boolean isAumentoAprovado = isContaVerificada && salarioCliente >= 2400;
         limiteCartao += 1500;
         System.out.println("O aumento foi aprovado? " + isAumentoAprovado);
         System.out.println("Novo limite do cartão: " + limiteCartao);
