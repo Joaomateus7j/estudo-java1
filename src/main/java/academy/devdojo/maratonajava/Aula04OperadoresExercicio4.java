@@ -12,5 +12,13 @@ public class Aula04OperadoresExercicio4 {
         boolean isMaiorDeIdade = idadeUsuario >= idadeMinima;
         System.out.println("isMaiorDeIdade " +isMaiorDeIdade);
 
+        //Exercício 2 (Estoque Mínimo)
+
+        int quantidadeEstoque = 5;
+        int estoqueMinimo = 10;
+
+        boolean isPrecisaRepor = quantidadeEstoque < estoqueMinimo;
+        System.out.println("isPrecisaRepor " + isPrecisaRepor);
+
     }
 }
