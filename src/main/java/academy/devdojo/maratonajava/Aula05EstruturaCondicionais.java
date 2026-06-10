@@ -12,9 +12,6 @@ public class Aula05EstruturaCondicionais {
             System.out.println("Não Autorizado a comprar bebida ");
         }
 
-
-        System.out.println("Fora do if");
-
         int idade2 = 18;
         boolean completouAlistamento = false;
 
