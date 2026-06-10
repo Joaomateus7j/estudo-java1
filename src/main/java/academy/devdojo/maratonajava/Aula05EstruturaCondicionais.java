@@ -4,10 +4,25 @@ public class Aula05EstruturaCondicionais {
     public static void main(String[] args) {
 
         int idade = 19;
-        if (idade >= 18){
+        boolean isAutorizadoComprarBebida = idade >=18;
+        // !
+        if (isAutorizadoComprarBebida){
             System.out.println("Autorizado a comprar bebida ");
+        }else{
+            System.out.println("Não Autorizado a comprar bebida ");
         }
+
+
         System.out.println("Fora do if");
+
+        int idade2 = 18;
+        boolean completouAlistamento = false;
+
+        if (!completouAlistamento){
+            System.out.println("Você precisa realizar o seu alistamento militar obrigatório! ");
+        }
+
+
 
     }
 }
