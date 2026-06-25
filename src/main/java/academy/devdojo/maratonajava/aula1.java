@@ -20,3 +20,6 @@ public class aula1 {
    multiplas linhas,
    estou testando ela agora
  */
+
+
+String idade = "Minha idade e de 17 anos";

@@ -19,7 +19,7 @@ public class Aula04Operadores {
         boolean isDezMenorQueVinte = 10 < 20;
         boolean isDezIgualVinte = 10 == 20;
         boolean isDezIgualDez = 10 == 10.0;
-        boolean isDezDiferenteDez = 10 != 10.0;
+        boolean isDezDiferenteDez = 10 != 15.0;
 
         System.out.println("isDezMaiorQueVinte " + isDezMaiorQueVinte);
         System.out.println("isDezMenorQueVinte " + isDezMenorQueVinte);
