@@ -3,7 +3,9 @@ package academy.devdojo.maratonajava;
 public class Aula04OperadoresExercicio4 {
     public static void main(String[] args) {
 
-        //🏛️ Tema 1: Operadores Relacionais
+
+//    }
+//}  //🏛️ Tema 1: Operadores Relacionais
         // Validação de idade
 
         int idadeUsuario = 20;
@@ -16,9 +18,6 @@ public class Aula04OperadoresExercicio4 {
 
         int quantidadeEstoque = 5;
         int estoqueMinimo = 10;
-
-        boolean isPrecisaRepor = quantidadeEstoque < estoqueMinimo;
-        System.out.println("isPrecisaRepor " + isPrecisaRepor);
-
-    }
-}
+//
+//        boolean isPrecisaRepor = quantidadeEstoque < estoqueMinimo;
+//        System.out.println("isPrecisaRepor " + isPrecisaRepor);

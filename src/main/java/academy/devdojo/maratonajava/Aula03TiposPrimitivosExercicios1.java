@@ -10,5 +10,6 @@ public class Aula03TiposPrimitivosExercicios1 {
 
 
         System.out.println("Atleta: " + nome + "| Idade: " + idade + " anos | Peso: " + peso + " kg | Pratica corrida: " + corre);
+        System.out.println("Teste ");
     }
 }
