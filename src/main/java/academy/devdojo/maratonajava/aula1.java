@@ -1,5 +1,3 @@
-package academy.devdojo.maratonajava;
-
 /**
  * Isso e um comentario
  */
@@ -23,3 +21,6 @@ public class aula1 {
 
 
 String idade = "Minha idade e de 17 anos";
+
+void main() {
+}
