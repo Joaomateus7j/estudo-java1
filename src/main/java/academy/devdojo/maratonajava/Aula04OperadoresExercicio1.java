@@ -8,6 +8,6 @@ public class Aula04OperadoresExercicio1 {
         float valorPlaystation = 5000F;
 
         boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || ValorTotalContapoupanca > valorPlaystation;
-        System.out.println("Foi aprovado a venda do Playstation sim ou nao  " +isPlaystationCincoCompravel );
+        System.out.println("Foi aprovado a venda do Playstation sim ou nao, alteraçãoo  " +isPlaystationCincoCompravel );
     }
 }
