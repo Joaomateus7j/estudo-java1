@@ -21,7 +21,7 @@ public class Aula04DesafioOperadoresConjuntos2 {
         int multiplicadorDano = 1;
 
         boolean isLevelUp = xpAtual >= 1000 || derrotoChefao;
-        System.out.println("Subiu de nivel? " + derrotoChefao);
+        System.out.println("Subiu de nivel? sim ou nao " + derrotoChefao);
         multiplicadorDano += 2;
         System.out.println("Foi acrescentado mais " + multiplicadorDano + " De xp");
     }
