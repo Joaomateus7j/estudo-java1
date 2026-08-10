@@ -10,7 +10,7 @@ public class Aula04OperadoresExercicio5 {
         boolean isAcessoLiberado = isNaLista && temConvite;
         System.out.println("isAcessoLiberado? " + isAcessoLiberado);
 
-        // 🧠 Tema 2: Operadores Lógicos (Exercício 2)
+        // 🧠 Tema 2: Operadores Lógicos (Exercício 2 e aplicando)
 
         boolean isChovendo = false;
         int velocidadeVento = 65;
