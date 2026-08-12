@@ -16,8 +16,8 @@ public class Aula04DesafioOperadoresConjuntos2 {
 
         // 🎮 Exercício 2: O Sistema de Level Up do RPG
 
-        int xpAtual = 850;
-        boolean derrotoChefao = true;
+        int xpAtual = 900;
+        boolean derrotoChefao = false;
         int multiplicadorDano = 1;
 
         boolean isLevelUp = xpAtual >= 1000 || derrotoChefao;

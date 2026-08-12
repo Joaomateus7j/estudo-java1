@@ -4,7 +4,7 @@ public class Aula04OperadoresExercicio1 {
     public static void main(String[] args) {
 
         double valorTotalContaCorrente = 200;
-        double ValorTotalContapoupanca = 10000;
+        double ValorTotalContapoupanca = 5001;
         float valorPlaystation = 5000F;
 
         boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || ValorTotalContapoupanca > valorPlaystation;

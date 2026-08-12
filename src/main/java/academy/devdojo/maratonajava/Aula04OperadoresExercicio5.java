@@ -13,7 +13,7 @@ public class Aula04OperadoresExercicio5 {
         // 🧠 Tema 2: Operadores Lógicos (Exercício 2 e aplicando)
 
         boolean isChovendo = false;
-        int velocidadeVento = 65;
+        int velocidadeVento = 55;
         boolean isTrabalhoCancelado = isChovendo || velocidadeVento >= 50;
         System.out.println("isTrabalhoCancelado? " + isTrabalhoCancelado);
 
