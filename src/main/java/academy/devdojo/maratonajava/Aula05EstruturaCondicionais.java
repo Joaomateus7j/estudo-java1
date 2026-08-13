@@ -6,7 +6,7 @@ public class Aula05EstruturaCondicionais {
         int idade = 17;
         boolean isAutorizaComprarBebida = idade >= 18;
 
-        // ! 
+        // !
 
         if(isAutorizaComprarBebida ){
             System.out.println("Pode comprar a bebida");
