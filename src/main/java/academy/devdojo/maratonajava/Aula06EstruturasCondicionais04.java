@@ -10,7 +10,7 @@ public class Aula06EstruturasCondicionais04 {
 
         if(salarioAnual <= 34712){
             salarioAnual *= salarioAnual * salarioAnual;
-        } else if (salarioAnual >= 34712 && ) {
+
 
         }
     }
