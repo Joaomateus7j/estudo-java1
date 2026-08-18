@@ -19,7 +19,7 @@ public class Aula08EstruturasCondicionais06 {
                 System.out.println("Dia util");
                 break;
             default:
-                System.out.println("Opcao invalida");
+                System.out.println("Opcao invalidaa");
                 break;
         }
     }
