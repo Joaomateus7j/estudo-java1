@@ -1,5 +1,7 @@
 package academy.devdojo.maratonajava;
 
+import java.sql.SQLOutput;
+
 public class Aula07EstruturasCondicionais05 {
     static void main(String[] args) {
         // Imprima o dia da semana, considerando 1 como domingo
@@ -14,5 +16,34 @@ public class Aula07EstruturasCondicionais05 {
                 System.out.println("Segunda");
                 break;
         }
+
+
+
+
+        char sexo = 'F';
+
+        switch (sexo) {
+            case 'M':
+                System.out.println("Masculino");
+                break;
+            case 'F':
+                System.out.println("Feminino");
+                break;
+            default:
+                System.out.println("Invalido");
+                break;
+        }
+
+
+
+
+
+
+
+
+
     }
 }
+
+
+
