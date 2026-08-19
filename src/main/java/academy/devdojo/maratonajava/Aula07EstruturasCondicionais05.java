@@ -20,7 +20,7 @@ public class Aula07EstruturasCondicionais05 {
 
 
 
-        char sexo = 'F';
+        char sexo = 'M';
 
         switch (sexo) {
             case 'M':
