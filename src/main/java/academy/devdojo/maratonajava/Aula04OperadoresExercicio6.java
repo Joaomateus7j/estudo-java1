@@ -14,7 +14,7 @@ public class Aula04OperadoresExercicio6 {
         // 🧮 Tema 3: Operadores de Atribuição (Exercício 2)
 
         int voltas = 0;
-        voltas ++; // Primeira volta
+        voltas ++; // Primeira volta a
         voltas++; // Segunda voltagg
         System.out.println(voltas);
 
