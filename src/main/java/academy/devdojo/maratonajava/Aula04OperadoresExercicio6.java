@@ -15,7 +15,7 @@ public class Aula04OperadoresExercicio6 {
 
         int voltas = 0;
         voltas ++; // Primeira volta
-        voltas++; // Segunda volta a
+        voltas++; // Segunda volta 
         System.out.println(voltas);
 
     }
