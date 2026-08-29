@@ -11,6 +11,8 @@ public class Aula09EstruturaDeRepeticao04 {
                 break;
             }
 
+
+            // teste 
             System.out.println("Parcela " + parcela + "x de R$ " + valorParcela);
         }
     }
