@@ -12,7 +12,7 @@ public class Aula05EstruturaCondicionais {
             System.out.println("Pode comprar a bebida");
         }
         else{
-            System.out.println("Você nao possui idade para comprar bebida");
+            System.out.println("Você nao possui idade para comprar bebida wd");
         }
 
 
