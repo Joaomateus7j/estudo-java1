@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava;
 
 public class teste01 {
     static void main(String[] args) {
-        int idade = 16;
+        int idade = 15;
 
 
 
