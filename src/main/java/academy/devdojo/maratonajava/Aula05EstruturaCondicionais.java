@@ -9,7 +9,7 @@ public class Aula05EstruturaCondicionais {
         // !
 
         if(isAutorizaComprarBebida ){
-            System.out.println("Pode comprar a bebida");
+            System.out.println("Pode comprar a bebida a");
         }
         else{
             System.out.println("Você nao possui idade para comprar bebida wd");
