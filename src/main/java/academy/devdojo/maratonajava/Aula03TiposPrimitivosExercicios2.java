@@ -8,7 +8,7 @@ public class Aula03TiposPrimitivosExercicios2 {
         double preco = 599.90;
         int quantidade = 5;
 
-        System.out.println("O produto " + nomeproduto + "modelo " + modelo + "está a venda por R$ " + preco + " temos apenas " + quantidade + " unidades em estoque ");
+        System.out.println("O produt33o " + nomeproduto + "modelo " + modelo + "está a venda por R$ " + preco + " temos apenas " + quantidade + " unidades em estoque ");
     }
 }
 
