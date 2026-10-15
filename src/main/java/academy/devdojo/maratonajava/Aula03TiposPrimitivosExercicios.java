@@ -13,7 +13,7 @@ public class Aula03TiposPrimitivosExercicios {
 
         //--- Variáveis de Texto
         String nome = "João mateus";
-        String endereco = "Rua simplico de souza euflasio, 45 30";
+        String endereco = "Rua simplico de souza euflasio, 450";
         String data = "06/06/2026";
         //Variáveis Numéricas
         double salario = 2500.50;
